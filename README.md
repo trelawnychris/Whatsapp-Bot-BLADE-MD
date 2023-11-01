@@ -18,15 +18,15 @@
   # ```Tap Here For Help```  
   
   <p align="left">
-  <a href="https://wa.me/2348059540212?text=Hello%20alex~tv%20...%20I%20need%20some%20help%20in%20blade%20md">
+  <a href="https://wa.me/254795968849?text=Hello%20alex~tv%20...%20I%20need%20some%20help%20in%20blade%20md">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   Tap here for contact me on WhatsApp Messenger 
   </p>
   <p align="center">
-  <a href="My email: maxdavid126@gmail.com">
+  <a href="My email: trelawny2023@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Gmail.svg" />
   
-    My email Adress : maxdavid126@gmail.com
+    My email Adress : trelawny2023@gmail.com
      
   <div><br>
 </p>
